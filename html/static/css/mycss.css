@@ -8,6 +8,16 @@ body {
     font-size: 14px;
 }
 
+/*a标签去掉下划线*/
+a {
+    text-decoration: none;
+}
+
+/*无序列表去掉样式*/
+ul {
+    list-style: none;
+}
+
 /*块级元素居中显示*/
 .center {
     margin: 0 auto;
